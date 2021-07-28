@@ -1,0 +1,15 @@
+{
+  "name": "n8n",
+  "description": "Deploy n8n to dokku without any hassle",
+  "keywords": [
+    "n8n",
+    "node",
+    "automation"
+  ],
+  "repository": "https://github.com/dock-dev/n8n-dokku",
+  "scripts": {
+    "dokku": {
+      "postdeploy": ""
+    }
+  }
+}
